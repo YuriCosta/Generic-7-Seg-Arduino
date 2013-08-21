@@ -15,3 +15,5 @@ Change it's displaying value
 mS_Seg->hex_to_7seg(16); //15, 14, 13... 0
 
 Dot modifier function not implemented yet.
+
+Be aware: DO NOT: DON'T, send a pointer as argument with less than 9 ints, because pointers.

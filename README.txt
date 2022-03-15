@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Class: S_Seg.h
 Exemple: 7seg_duplo_main.h
 
-author: <Yuri Costa (yurioor@hotmail.com)>
+author: <Yuri Costa>
 description: <Simple 7-segment LED object>
 
 ports = { a, b, c, d, e, f, g, (dot), (Vcc or GND) };
